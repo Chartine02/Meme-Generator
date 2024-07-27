@@ -1,4 +1,4 @@
-# Event Registration Form
+# Meme Generator App
 
 This repository contains code for an Event Registration Form built using HTML, CSS, and JavaScript. The form includes fields for collecting user information required to register for a fictional event.
 
